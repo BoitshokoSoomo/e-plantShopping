@@ -7,10 +7,11 @@ function AboutUs() {
       {/* <h1 className="about-us-heading">About Us</h1> */}
       <p className="about-us-description">Welcome to Paradise Nursery, where green meets serenity!</p>
       <p className="about-us-content">
-        At Paradise Nursery, we are passionate about bringing nature closer to you. Our mission is to provide a wide range of 
-        high-quality plants that not only enhance the beauty of your surroundings but also contribute to a healthier and 
-        more sustainable lifestyle. From air-purifying plants to aromatic fragrant ones, we have something for every 
-        plant enthusiast.
+        At Paradise Nursery, we believe every home deserves a touch of green. For over a decade we
+        have been curating the healthiest, most beautiful houseplants — from rare tropicals to
+        time-tested classics. Each plant is hand-picked, lovingly cared for and shipped straight
+        from our greenhouse to your door. Our mission is simple: help you build your own little
+        paradise, one plant at a time.
       </p>
       {/* <p className="plant_logo_left"><img src="https://p1.hiclipart.com/preview/922/979/640/green-leaf-logo-emoji-seedling-emoticon-sticker-plant-plant-stem-flower-png-clipart-thumbnail.jpg" height='50px' width='50px' alt="" /></p> */}
       <p className="about-us-content">
